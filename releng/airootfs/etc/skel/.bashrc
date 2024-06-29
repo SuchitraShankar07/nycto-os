@@ -3,7 +3,6 @@
 #
 clear
 alias delete="rm "
-alias bitch="sudo "
 alias la="ls -a "
 alias copy="cp "
 alias update="yay -Syu "
